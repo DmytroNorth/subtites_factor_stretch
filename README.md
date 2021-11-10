@@ -1,4 +1,6 @@
-# A function that stretches subtitles by a given factor - Python
+# Subtitles Stretching by Factor
+A function that stretches subtitles by a given factor - Python
+
 ## Introduction
 A function that:
 * reads `.srt` subtitle file 
